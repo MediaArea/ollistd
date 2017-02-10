@@ -160,8 +160,8 @@ All FFV1 bitstreams wrapped in the MXF Essence Container according to this stand
 
 Table 5 – FFV1 Picture Essence Descriptor
 
-| Item Name                | Type       | Len | UL Value    | Req ? | Meaning                                         | Default |
-|--------------------------|------------|-----|-------------|-------|-------------------------------------------------|---------|
+| Item Name                | Type       | Len | UL Value     | Req ? | Meaning                                         | Default |
+|--------------------------|------------|-----|--------------|-------|-------------------------------------------------|---------|
 | FFV1 Picture Essence Descriptor | Set UL     | 16  | See table below | Req   | Defines the FFV1 Picture Essence Descriptor Set |         |
 | Length                   | BER Length | 4   |                                                 | Req   | Set length   |         |
 | <td colspan=5>All items from the MXF Format CDCI Descriptor</td>|
