@@ -1,5 +1,32 @@
 # Open LossLess in Standards
 
+## Foreword
+
+In cases where digital loss is not acceptable, lossless data compression has been changing the way the world stores and transmits its data. Nowadays most digital office documents use lossless compression (.docx, .xlsx, .odt, .pages) and lossless images are more ubiquitous (.png). Although uncompressed digital storage is an option, uncompressed data generally contains no fixity mechanisms and requires a generation of e-waste at a much faster rate than lossless formats. When the preservation of quality is a requirement, lossless compression is the green option.
+
+Although lossless formats have been well adopted for images, documents and other media types; the adoption of lossless formats for audiovisual recordings has been much slower. Given the opportunity for lossless compression in audiovisual media, we also propose a focus on open formats, meaning:
+
+- freedom to read, write, and use the format (NO PATENT)
+- freedom to read, understand, and share the format's specification (NO PAYWALL)
+- freedom to modify and distribute the format
+
+We propose accelerating the implementation of lossless audiovisual formats with the following coordinated efforts:
+
+- coordinated registration efforts for lossless formats with the principle audiovisual standards organizations (at least IANA, IETF, ISO, SMPTE)
+- open documentation efforts of open, lossless audiovisual formats for relevant communities
+- advocacy and promotion of open, lossless audiovisual formats to media application developers (both proprietary and open source)
+
+Following with the work of the PREFORMA Project we are focused on 3 open lossless formats:
+
+- Matroska, a file container able to transport different media stream
+- FFV1, a lossless video coding format
+- FLAC, a lossless audio coding format
+
+This focus is not specific to the arrangement of these formats but regards their use in other contents as well, such as FFV1 in MXF or FLAC in QuickTime.
+
+This page lists a summary about what we are doing about the registering of these formats in standard bodies used by open lossless formats people.  
+Note: standardization of formats themselves is excluded of this summary (it is part of the [PREFORMA project](http://preforma-project.eu/)).
+
 ## Proposed Actions
 
 ### Matroska
