@@ -142,11 +142,11 @@ Table 3 – Specification of the Picture Essence Compression Label
 
 (Same as is SMPTE ST 2037 document)
 
-The correspondence between byte 13 and the FFV1 version described in IETF RFC (to be defined) is shown in Table 4.
+The correspondence between byte 14 and the FFV1 version described in IETF RFC (to be defined) is shown in Table 4.
 
-Table 4 – Correspondence Between Byte 13 and FFV1 version
+Table 4 – Correspondence Between Byte 14 and FFV1 version
 
-| Profile   | Value of Byte 13 |
+| Profile   | Value of Byte 14 |
 |-----------|------------------|
 | 0         | 01h              |
 | 1         | 02h              |
