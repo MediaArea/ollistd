@@ -60,7 +60,7 @@ References:
 [Discussion on Twitter](https://twitter.com/MrMXF/status/824535480314265601)  
 [Blog by Bruce Devlin on the process](http://mrmxf.com/blog/how-to-put-a-new-codec-into-mxf/)
 
-We have a [Proposal](https://mediaarea.net/ollistd/MXF_FFV1).
+We have a [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md).
 
 ### FFmpeg  
 
@@ -80,7 +80,7 @@ After/during registering, we need to update FFmpeg in order to have a reference 
 | MP4       | FLAC     |               |               |               |                                        |
 | QuickTime | FFV1     |               |               |               |                                        |
 | QuickTime | FLAC     |               |               |               |                                        |
-| MXF       | FFV1     | 2017-01-27    |               |               | [Proposal](https://mediaarea.net/ollistd/MXF_FFV1)                                       |
+| MXF       | FFV1     | 2017-01-27    |               |               | [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md)                                       |
 | MXF       | FLAC     |               |               |               |                                        |
 
 ## Timeline
@@ -106,5 +106,4 @@ Based on $100/hour labor
 
 ## Keep in touch!
 
-You can modify this page: [source of this page](https://github.com/mediaarea.net/ollistd).  
-Follow us on [Twitter](https://twitter.com/ollistd).  
+You can modify this page: [source of this page](https://github.com/MediaArea/ollistd).  
