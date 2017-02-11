@@ -60,7 +60,7 @@ References:
 [Discussion on Twitter](https://twitter.com/MrMXF/status/824535480314265601)  
 [Blog by Bruce Devlin on the process](http://mrmxf.com/blog/how-to-put-a-new-codec-into-mxf/)
 
-We have a [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md).
+We have a [Proposal for FFV1](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md) and a [Proposal for FLAC](https://github.com/MediaArea/ollistd/blob/master/MXF_fLAC.md).
 
 ### FFmpeg  
 
@@ -81,14 +81,15 @@ After/during registering, we need to update FFmpeg in order to have a reference 
 | QuickTime | FFV1     |               |               |               |                                        |
 | QuickTime | FLAC     |               |               |               |                                        |
 | MXF       | FFV1     | 2017-01-27    |               |               | [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md)                                       |
-| MXF       | FLAC     |               |               |               |                                        |
+| MXF       | FLAC     |               |               |               | [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FLAC.md)                                       |
 
 ## Timeline
 
 - 2017-01-27 MXF, [discussion with MrMXF](https://twitter.com/MrMXF/status/824535480314265601).
 - 2017-02-04 Matroska, [proposal of V\_FFV1 (FFV1 in Matroska) on CELLAR](https://mailarchive.ietf.org/arch/search/?email_list=cellar&gbt=1&index=Kir-8JdOl6DTZFPrxy4XM-iRP7Q).
 - 2017-02-05 Matroska, [FFV1 in Matroska PR](https://github.com/Matroska-Org/matroska-specification/pull/94) is accepted.
-- 2017-02-10 Global, public communication about this page
+- 2017-02-11 First draft of proposal for FFV1 and FLAC in MXF written
+- 2017-02-11 Global, public communication about this page
 
 ## Costs
 
