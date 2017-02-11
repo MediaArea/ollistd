@@ -60,7 +60,7 @@ References:
 [Discussion on Twitter](https://twitter.com/MrMXF/status/824535480314265601)  
 [Blog by Bruce Devlin on the process](http://mrmxf.com/blog/how-to-put-a-new-codec-into-mxf/)
 
-We have a [Proposal for FFV1](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md) and a [Proposal for FLAC](https://github.com/MediaArea/ollistd/blob/master/MXF_fLAC.md).
+We have a [Proposal for FFV1](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md) and a [Proposal for FLAC](https://github.com/MediaArea/ollistd/blob/master/MXF_FLAC.md).
 
 ### FFmpeg  
 
