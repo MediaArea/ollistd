@@ -14,7 +14,7 @@ Although lossless formats have been well adopted for images, documents and other
 
 We propose accelerating the implementation of lossless audiovisual formats with the following coordinated efforts:
 
-- coordinated registration efforts for lossless formats with the principle audiovisual standards organizations (IANA, IETF, ISO, SMPTE)
+- coordinated registration efforts for lossless formats with the principal audiovisual standards organizations (IANA, IETF, ISO, SMPTE)
 - open documentation efforts of open, lossless audiovisual formats for relevant communities
 - advocacy and promotion of open, lossless audiovisual formats to media application developers (both proprietary and open source)
 
