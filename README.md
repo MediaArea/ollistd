@@ -37,7 +37,7 @@ This page lists a summary of what we are doing regarding the registration of the
 - FFV1: Currently using the AVI compatibility layer (similar to early version of AVC support), with active discussion about instead having a dedicated codec identifier (also similar to current version of AVC support).  
 If we decide to move, we need to do a PR on the [Matroska public repository](https://github.com/Matroska-Org/matroska-specification).
 
-- FLAC: Complete ("A_FLAC" identifier), [source](https://matroska.org/technical/specs/codecid/index.html).
+- FLAC: Complete. ("A_FLAC" identifier), [source](https://matroska.org/technical/specs/codecid/index.html).
 
 ### IANA
 
