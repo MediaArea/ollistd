@@ -43,13 +43,17 @@ Similar to [MIME Type Registration for MPEG-4](https://tools.ietf.org/html/rfc43
 We need to fill a [IANA form for media-types](https://www.iana.org/form/media-types).
 
 - Matroska: registering video/matroska (1+ video), audio/matroska (0 video 1+ audio), application/matroska (0 video 0 audio 1+ other)
-- FFV1: registering "video/FFV1".
-- FLAC: registering "audio/FLAC".
+- FFV1: Registering "video/FFV1".
+- FLAC: Registering "audio/FLAC".
 
 ### MP4/QuickTime
 
+See the [mp4ra request page](http://www.mp4ra.org/request.html) for more information.
+
 - FFV1: registering "FFV1".
 - FLAC: registering "FLAC".
+
+A draft proposal of the request is available for comment at [Proposal](mp4ra_FFV1.md).
 
 ### MXF  
 
@@ -76,9 +80,9 @@ After/during registering, we need to update FFmpeg in order to have a reference 
 | IANA      | Matroska |               |               |               |                                        |
 | IANA      | FFV1     |               |               |               |                                        |
 | IANA      | FLAC     |               |               |               |                                        |
-| MP4       | FFV1     |               |               |               |                                        |
+| MP4       | FFV1     | 2017-02-16    |               |               | [Proposal](mp4ra_FFV1.md)              |
 | MP4       | FLAC     |               |               |               |                                        |
-| QuickTime | FFV1     |               |               |               |                                        |
+| QuickTime | FFV1     | 2017-02-16    |               |               | [Proposal](mp4ra_FFV1.md), same as FFV1/MP4 |
 | QuickTime | FLAC     |               |               |               |                                        |
 | MXF       | FFV1     | 2017-01-27    |               |               | [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FFV1.md)                                       |
 | MXF       | FLAC     |               |               |               | [Proposal](https://github.com/MediaArea/ollistd/blob/master/MXF_FLAC.md)                                       |
