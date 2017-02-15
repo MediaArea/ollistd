@@ -24,11 +24,11 @@ Following with the work of the [PREFORMA project](http://preforma-project.eu/) w
 - FFV1, a lossless video coding format
 - FLAC, a lossless audio coding format
 
-This focus is not specific to the arrangement of these formats but regards their use in other contents as well, such as using FFV1 in the MXF format or FLAC wrapped in the QuickTime format.
+This focus is not specific to the arrangement of these formats but regards their use in other contexts as well, such as using FFV1 in the MXF format or FLAC wrapped in the QuickTime format.
 
 This page lists a summary of what we are doing regarding the registration of these formats in standard bodies used by people and organizations working with open lossless formats.
 
-*Note: Standardization of the formats themselves is excluded from this summary. It is part of the [PREFORMA project](http://preforma-project.eu/)).*
+*Note: Standardization of the formats themselves is excluded from this summary. It is part of the [IETF CELLAR Working Group](https://datatracker.ietf.org/wg/cellar/charter/).*
 
 ## Proposed Actions
 
