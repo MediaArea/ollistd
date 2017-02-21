@@ -103,6 +103,8 @@ After/during registering, we will need to update FFmpeg in order to have a refer
 
 ## Costs
 
+### Estimates
+
 Based on $100/hour labor, here are the cost estimates for completing project goals.
 
 - Matroska: $100 labor to begin discussion about V\_FFV1 and PR
@@ -110,6 +112,14 @@ Based on $100/hour labor, here are the cost estimates for completing project goa
 - IANA: $400 for administrative tasks associated with registration
 - MP4/QuickTime: $200 labor for administrative tasks
 - MXF: $3000-10,000 for SMPTE (writing, travels) and FFmpeg patch (to be defined)
+
+### Paid Costs
+
+Description                            | Paid To | Date       | Amount
+---------------------------------------|---------|------------|--------
+Subcription (Individual-Professional)  | SMPTE   | 2017-02-21 | $145.00
+Digital Library Standards Subscription | SMPTE   | 2017-02-21 | $540.00
+Standards Participation                | SMPTE   | 2017-02-21 | $250.00
 
 ## Sponsors
 
