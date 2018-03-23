@@ -77,7 +77,7 @@ Table 1 – Key Value for the FFV1 Picture Element
 |          |                                | (TBD) | Clip-wrapped FFV1 Picture Element                                            |
 | 16       | Essence Element Number         | Nnh   | The Number (used as an Index) of this Picture Element in the Picture Item    |
 
-###8.1.1   Essence Element Count – Byte 14
+#### 8.1.1   Essence Element Count – Byte 14
 
 (Same as is SMPTE ST 2037 document)
 
@@ -165,12 +165,12 @@ Table 5 – FFV1 Picture Essence Descriptor
 | FFV1 Picture Essence Descriptor | Set UL     | 16  | See table below | Req   | Defines the FFV1 Picture Essence Descriptor Set |         |
 | Length                   | BER Length | 4   |                                                 | Req   | Set length   |         |
 | <td colspan=5>All items from the MXF Format CDCI Descriptor</td>|
-| FFV1InitializationMetadata | Datastream | 16  | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | D/Req | See Section 10.1.  |         |
-| FFV1IdenticalGOP         | Boolean    | 1   | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | Opt   | TRUE if every GOP in the sequence is constructed the same. | FALSE |
-| FFV1MaxGOP               | UInt16     | 2   | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | Opt   | Specifies the maximum occurring spacing between I frames. <br/> A value of 0 or the absence of this property implies no limit to the maximum GOP | no limit |
-| FFV1MaximumBitRate       | UInt32     | 4   | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | Opt   | Maximum bit rate of FFV1 video elementary stream in bit/s. |   |
-| FFV1Version              | UInt8      | 1   | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | Opt   | Specifies the FFV1 video version. <br/> Coded as per IETF RFC (to be defined)  |   |
-| FFV1MicroVersion         | UInt8      | 1   | 06 0e 2b 34 <br/> (TBD) <br/> (TBD)<br/> (TBD) | Opt   | Specifies the FFV1 video microversion. <br/> Coded as per IETF RFC (to be defined) |   |
+| FFV1InitializationMetadata | Datastream | 16  | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | D/Req | See Section 10.1.  |         |
+| FFV1IdenticalGOP         | Boolean    | 1   | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | Opt   | TRUE if every GOP in the sequence is constructed the same. | FALSE |
+| FFV1MaxGOP               | UInt16     | 2   | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | Opt   | Specifies the maximum occurring spacing between I frames. <br> A value of 0 or the absence of this property implies no limit to the maximum GOP | no limit |
+| FFV1MaximumBitRate       | UInt32     | 4   | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | Opt   | Maximum bit rate of FFV1 video elementary stream in bit/s. |   |
+| FFV1Version              | UInt8      | 1   | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | Opt   | Specifies the FFV1 video version. <br> Coded as per IETF RFC (to be defined)  |   |
+| FFV1MicroVersion         | UInt8      | 1   | 06 0e 2b 34 <br> (TBD) <br> (TBD)<br> (TBD) | Opt   | Specifies the FFV1 video microversion. <br> Coded as per IETF RFC (to be defined) |   |
 
 ### 10.1   FFV1InitializationMetadata
 
@@ -206,4 +206,3 @@ Table 6 – Key Value for the FFV1 Picture Essence Descriptor
 
 FFV1 specification: IETF RFC (to be defined) 
 (Same as is SMPTE ST 2037 document)
-
