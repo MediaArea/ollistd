@@ -8,9 +8,9 @@ In cases where digital loss is not acceptable, lossless data compression has bee
 
 Although lossless formats have been well adopted for images, documents and other media types, the adoption of lossless formats for audiovisual recordings has been much slower. Given the opportunity for lossless compression in audiovisual media, we also propose a focus on open formats, meaning:
 
-- NO PATENT -- freedom to read, write, and use the format
-- NO PAYWALL -- freedom to read, understand, and share the format's specification
-- NO PROHIBITIONS -- freedom to modify and distribute the format
+- NO PATENT — freedom to read, write, and use the format
+- NO PAYWALL — freedom to read, understand, and share the format's specification
+- NO PROHIBITIONS — freedom to modify and distribute the format
 
 We propose accelerating the implementation of lossless audiovisual formats with the following coordinated efforts:
 
